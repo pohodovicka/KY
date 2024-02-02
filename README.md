@@ -1,0 +1,2 @@
+# Poznamky
+ttext for obsidian

@@ -1,2 +1,2 @@
-# Poznamky
-ttext for obsidian
+Poznamky
+text for obsidian

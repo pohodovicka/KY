@@ -1,2 +1,1 @@
-Poznamky
-text for obsidian
+7/2 make operator

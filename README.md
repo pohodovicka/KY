@@ -1,1 +1,1 @@
-write dowm all 
+write dowm and

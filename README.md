@@ -5,5 +5,3 @@ F
 Ag
 Au
 Xe
-
-

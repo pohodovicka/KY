@@ -3,6 +3,5 @@ Fe
 O
 F
 Ag
-Au
-Xe
+AuXe
 F

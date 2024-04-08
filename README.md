@@ -4,4 +4,3 @@ O
 F
 Ag
 AuXe
-He
